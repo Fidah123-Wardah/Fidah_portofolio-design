@@ -1,0 +1,16 @@
+ {
+margin}
+{
+}
+body{
+    font-family: sans-serif;
+    user-select: none;
+}
+#nav-bar {
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+navbar-brad {
+    color: white important;
+    height: 50px;
+    padding-left: 20px;
+}
